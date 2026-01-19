@@ -41,7 +41,7 @@ Foi aplicado um modelo de **Regressão Linear Múltipla (OLS)** utilizando a bib
 A modelagem revelou um **$R^2$ de 0.615** (61,5%).
 
 **📉 Insight de Negócio:**
-Às amostras indicaram que há alta correlação entre às variáveis e que elas possuem força para os índices criminais de uma região. É necessário, granularizar às análises para validar se a tendência se repete em um contexto com mais variância e mais anos.
+Às amostras indicaram que há alta correlação entre às variáveis e que elas possuem força para explicar os índices criminais de uma região. É necessário, granularizar às análises para validar se a tendência se repete em um contexto com mais variância e mais anos.
 Acredito que o modelo pode se tornar mais robusto, a partir do emprego de outras variáveis, não exploradas por aqui.
 
 ---
