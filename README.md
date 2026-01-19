@@ -45,4 +45,4 @@ A modelagem revelou um **$R^2$ de 0.615** (61,5%).
 Acredito que o modelo pode se tornar mais robusto, a partir do emprego de outras variáveis, não exploradas por aqui.
 
 ---
-Para executar, clone o projeto, para acessar, clique no arquivo "
+Para executar, clone o projeto, para acessar, clique no arquivo "Análise_dados_ssp_24.ipynb".
