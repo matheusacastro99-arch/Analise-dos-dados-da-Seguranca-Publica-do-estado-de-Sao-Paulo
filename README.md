@@ -19,8 +19,8 @@ O objetivo principal foi investigar se variáveis demográficas (como densidade 
 O projeto foi estruturado seguindo o ciclo de vida de Ciência de Dados **OSEMN**:
 
 ### 1. **O**btain (Coleta)
-* **Fontes:** Dados oficiais do [Portal da Transparência da SSP-SP](http://www.ssp.sp.gov.br/), Dados da pesquisa Origem Destino [Pesquisa Origem Destino, Metrô/SP] (https://www.metro.sp.gov.br/pt_BR/pesquisa-od/),
-* 
+* **Fontes:** Dados oficiais do [Portal da Transparência da SSP-SP](http://www.ssp.sp.gov.br/), Dados da pesquisa Origem Destino [Pesquisa Origem Destino, Metrô/SP] (https://www.metro.sp.gov.br/pt_BR/pesquisa-od/), Dados do SEADE [SEADE Municipios](https://municipios.seade.gov.br/_
+  
 * **Dados:** Registros de ocorrências criminais e índices de produtividade (prisões, apreensões) de Jan/2024 a Dez/2024.
 
 ### 2. **S**crub (Limpeza)
